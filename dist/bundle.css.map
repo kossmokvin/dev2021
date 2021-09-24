@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.css","mappings":";;;AAAA,OAAO,cAAc,EAAE,C;;;;ACCtB;EAAS;AACV,C","sources":["webpack://dev2021/./src/assets/css/styles.css","webpack://dev2021/./src/assets/scss/styles.scss"],"sourcesContent":["body { background:red; }",".test {\r\n\t&__box { color:blue; }\r\n}"],"names":[],"sourceRoot":""}
